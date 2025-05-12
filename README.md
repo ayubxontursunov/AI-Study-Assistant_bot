@@ -101,8 +101,8 @@ https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/ayubxontursunov/ai-study-assistant-bot.git
-   cd ai-study-assistant-bot
+   git clone https://github.com/ayubxontursunov/AI-Study-Assistant_bot.git
+   cd AI-Study-Assistant_bot
    ```
 
 2. **Install dependencies**:
